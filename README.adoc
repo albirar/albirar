@@ -1,0 +1,13 @@
+= Albirar
+Octavi Fornés <ofornes@albirar.cat>
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+:numbered:
+
+
+This is a little developer group interesting in new technology and OpenSource ethics.
+
+Anyone who like to cooperate in Albirar, please send a message to webmaster@albirar.cat
+
